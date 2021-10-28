@@ -12,7 +12,7 @@ router.get("/", function (req, res, next) {
 
     title: "Abhinav Bellamkonda",
 
-    fact: "I in love with future"
+    fact: "I'm a big VP from AP"
 
   });
 
